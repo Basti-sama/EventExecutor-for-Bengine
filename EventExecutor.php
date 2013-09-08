@@ -1,5 +1,5 @@
 <?php
-error_reporting(E_ALL);
+
 class Bengine_Game_Cronjob_EventExecutor extends Recipe_CronjobAbstract
 {
 	/**
