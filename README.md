@@ -15,7 +15,7 @@ To use this plugin you'll need to use at least the bengine at version 0.3.
 Installation
 ============
 
-To install this plugin execute the EventExecutor.sql to your database. Then put the EventExecutor.php file in the /app/code/Bengine/Game/Cronjob directory and the installation is finished.
+To install this plugin execute the EventExecutor.sql to your database. Then put the EventExecutor.php file in the /app/code/Bengine/Game/Cronjob directory and setup the cronjob in the admin menu. After this step the installation is finished.
 
 
 
